@@ -1,0 +1,79 @@
+@charset "utf-8";
+#box{
+	width:1000px;
+	height:800px;
+	margin:0 auto;
+}/*外包大盒子样式*/
+#boxone{
+	width: 1000px;
+	height:800px;
+	border:1px;
+	background-color:#9DC3E2;
+	margin:0 auto;
+
+}/*网页一样式*/
+#box2one{
+	width:1000px;
+	height: 150px;
+	background-color:#9DD2D8;
+		margin:0 auto;
+
+}/*网页二第一个盒子样式*/
+#box2two{
+	width:1000px;
+	height:500px;
+	background-color:#FADCE4;
+		margin:0 auto;
+}/*网页二第二个盒子样式*/
+#box3one{
+	width:300px;
+	height: 800px;
+	background-color:#FFB5CC;
+	margin:0 auto;
+	float: left;
+
+}/*网页三第一个盒子样式*/
+#box3two{
+	width:700px;
+	height: 800px;
+	background-color:#E2B9DB;
+	float: left;
+	margin:0 auto;
+}/*网页三第二个盒子样式*/
+#box4two{
+	width:300px;
+	height: 500px;
+	background-color: aqua;
+	float: left;
+	margin:0 auto;
+}/*网页四第二个盒子样式*/
+#box4three{
+	width:700px;
+	height: 500px;
+	background-color:#B0C9E5;
+	float: left;
+	margin:0 auto;
+}/*网页四第三个盒子样式*/
+#box5two{
+	width:1000px;
+	height: 100px;
+	background-color:#DC8BA3;
+	margin:0 auto;
+}/*网页五第二个盒子样式*/
+#box5three{
+	width:300px;
+	height: 400px;
+	background-color: #BE8BDC;
+	float: left;
+	margin:0 auto;
+}/*网页五第三个盒子样式*/
+#box5four{
+	width:400px;
+	height: 400px;
+	background-color: #FDB3CA;
+	float: left;
+	margin:0 auto;
+}/*网页五第四个盒子样式*/
+#clear{
+	clear: left;
+}/*清除左浮动*/
